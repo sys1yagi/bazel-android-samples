@@ -1,0 +1,1 @@
+ln -s BUILD_FILE BUILD
